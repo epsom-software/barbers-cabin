@@ -61,7 +61,6 @@ iframe {
     padding-right:40%;
 }
 
-
 @media (max-width: 600px) {
     body {
         background-image:none;
@@ -71,6 +70,9 @@ iframe {
     }
     .splash-inner {
         padding:10px;
+    }
+    .times {
+        padding-right:0;
     }
     .maps {
         margin:0 -10px;
